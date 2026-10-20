@@ -283,8 +283,7 @@ Then delete the skill folder, the sandbox folder, and `%LOCALAPPDATA%\opencode-r
 
 ## Built with AI assistance
 
-This project was made with AI assistance in [OpenCode](https://opencode.ai).
-
+This project was made with AI assistance
 - The gateway code, the PowerShell scripts, and the agent definitions came from work with an AI coding agent. The AI wrote most of the code.
 - A human reviewed the design, ran the checks, and tested the full chain. The human is responsible for this repository.
 - Treat the output of the AI like any pull request: review it before you run it. Read the scripts. They are short.
@@ -500,7 +499,7 @@ powershell -ExecutionPolicy Bypass -File scripts\uninstall.ps1
 
 ## AI 辅助声明
 
-本项目在 [OpenCode](https://opencode.ai) 中借助 AI 开发完成。
+本项目在借助 AI 开发完成。
 
 - 网关代码 `gateway.mjs`、PowerShell 脚本和 agent 定义主要由 AI 编码智能体结合人工编写完成。
 - 人工负责审查设计、运行 `verify.ps1`、测试完整链路,并对本仓库的所有内容负责。
